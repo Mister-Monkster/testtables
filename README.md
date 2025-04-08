@@ -4,4 +4,5 @@
 
 ## 2. Запуск
 ```cd src```
+
 ```python main.py```
